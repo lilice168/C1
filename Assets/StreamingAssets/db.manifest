@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2638281153
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b443ca2fbcbb9efcac31c432a110097
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31032370f0631e2c096d77e282946919
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 7826707180f064f749db1196e2a7ac53, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/DB/BioTable.asset
+Dependencies: []

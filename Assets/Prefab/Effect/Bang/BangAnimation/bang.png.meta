@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 159886b0e7a1e4623a851ada6e61da9f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bang 1_0
+    21300002: bang 1_1
+    21300004: bang 1_2
+    21300006: bang 1_3
+    21300008: bang 1_4
+    21300010: bang 1_5
+    21300012: bang 1_6
+    21300014: bang 1_7
+    21300016: bang 1_8
+    21300018: bang 1_9
+    21300020: bang 1_10
+    21300022: bang 1_11
+    21300024: bang 1_12
+    21300026: bang 1_13
+    21300028: bang 1_14
+    21300030: bang 1_15
+    21300032: bang 1_16
+    21300034: bang 1_17
+    21300036: bang 1_18
+    21300038: bang 1_19
+    21300040: bang 1_20
+    21300042: bang 1_21
+    21300044: bang 1_22
+    21300046: bang 1_23
+    21300048: bang 1_24
+    21300050: bang 1_25
+    21300052: bang 1_26
+    21300054: bang 1_27
+    21300056: bang 1_28
+    21300058: bang 1_29
+    21300060: bang 1_30
+    21300062: bang 1_31
+    21300064: bang 1_32
+    21300066: bang 1_33
+    21300068: bang 1_34
+    21300070: bang 1_35
+    21300072: bang 1_36
+    21300074: bang 1_37
+    21300076: bang 1_38
+    21300078: bang 1_39
+    21300080: bang 1_40
+    21300082: bang 1_41
+    21300084: bang 1_42
+    21300086: bang 1_43
+    21300088: bang 1_44
+    21300090: bang 1_45
+    21300092: bang 1_46
+    21300094: bang 1_47
+    21300096: bang 1_48
+    21300098: bang 1_49
+    21300100: bang 1_50
+    21300102: bang 1_51
+    21300104: bang 1_52
+    21300106: bang 1_53
+    21300108: bang 1_54
+    21300110: bang 1_55
+    21300112: bang 1_56
+    21300114: bang 1_57
+    21300116: bang 1_58
+    21300118: bang 1_59
+    21300120: bang 1_60
+    21300122: bang 1_61
+    21300124: bang 1_62
+    21300126: bang 1_63
+    21300128: bang 1_64
+    21300130: bang 1_65
+    21300132: bang 1_66
+    21300134: bang 1_67
+    21300136: bang 1_68
+    21300138: bang 1_69
+    21300140: bang 1_70
+    21300142: bang 1_71
+    21300144: bang 1_72
+    21300146: bang 1_73
+    21300148: bang 1_74
+    21300150: bang 1_75
+    21300152: bang 1_76
+    21300154: bang 1_77
+    21300156: bang 1_78
+    21300158: bang 1_79
+    21300160: bang 1_80
+    21300162: bang 1_81
+    21300164: bang 1_82
+    21300166: bang 1_83
+    21300168: bang 1_84
+    21300170: bang 1_85
+    21300172: bang 1_86
+    21300174: bang 1_87
+    21300176: bang 1_88
+    21300178: bang 1_89
+    21300180: bang 1_90
+    21300182: bang 1_91
+    21300184: bang 1_92
+    21300186: bang 1_93
+    21300188: bang 1_94
+    21300190: bang 1_95
+    21300192: bang 1_96
+    21300194: bang 1_97
+    21300196: bang 1_98
+    21300198: bang 1_99
+    21300200: bang 1_100
+    21300202: bang 1_101
+    21300204: bang 1_102
+    21300206: bang 1_103
+    21300208: bang 1_104
+    21300210: bang 1_105
+    21300212: bang 1_106
+    21300214: bang 1_107
+    21300216: bang 1_108
+    21300218: bang 1_109
+    21300220: bang 1_110
+    21300222: bang 1_111
+    21300224: bang 1_112
+    21300226: bang_0
+    21300228: bang_1
+    21300230: bang_2
+    21300232: bang_3
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bang_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c41b095eee72417ca00736f1c4decce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e6c9e510a794350abca93dfa7e0731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de74f75224047a7a16deedf27efc40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6118ea7d694904b6a13fb065a4458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d19286beb44854bff84ba7c32d96c466
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

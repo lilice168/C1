@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1786698556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abf984a3c47e9df8533da5fe5d8caf74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b474380d27eb4bc856799e9c585c4864
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprite/b2.png
+- Assets/Sprite/b1.png
+- Assets/Sprite/b4.png
+- Assets/Sprite/b5.png
+- Assets/Sprite/cardbg.png
+- Assets/Sprite/b3.png
+Dependencies: []
