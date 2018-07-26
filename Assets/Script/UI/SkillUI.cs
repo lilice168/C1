@@ -9,8 +9,8 @@ public class SkillUI : MonoBehaviour
 
 	public const string SELECT_CARD = "SELECT_CARD";
 
-	Button m_CheckBattle;
 	Button m_Battle;
+    Button m_Exit;
 	Image m_CardIcon;
 	List<SkillContext> m_SkillContexts = new List<SkillContext>(4);
 	public List<ElementCard> m_ElementCards = new List<ElementCard>(30);
@@ -22,18 +22,19 @@ public class SkillUI : MonoBehaviour
 	#region Awake
 	void Awake()
 	{
-		//FindChild();
-		//InitEvent();
+		FindChild();
+		InitEvent();
 
 	}
 
 	void FindChild()
 	{
 		Transform ts = transform;
-		m_CheckBattle = ts.Find("CheckBattle").GetComponent<Button>();
-		m_CheckBattle.onClick.AddListener(ClickCheckBattle);
 		m_Battle = ts.Find("Battle").GetComponent<Button>();
 		m_Battle.onClick.AddListener(ClickBattle);
+        m_Exit = ts.Find("Title/Exit").GetComponent<Button>();
+        m_Exit.onClick.AddListener(ClickExit);
+
 
 		Transform content = ts.Find("Card View/Viewport/Content");
 		Transform elementCard = ts.Find("Card View/Viewport/Content/ElementCard");
@@ -46,12 +47,13 @@ public class SkillUI : MonoBehaviour
 
 			m_ElementCards.Add(elementCardTs.GetComponent<ElementCard>());
 		}
-
+        /*
 		for(int i = 0; i < 4; i++){
 			Transform skillContext = ts.Find(string.Format("CardContext/SkillContext{0}",i+1));
 			SkillContext skillcontext = new SkillContext(skillContext);
 			m_SkillContexts.Add(skillcontext);
 		}
+        */
 	}
 
 
@@ -72,6 +74,7 @@ public class SkillUI : MonoBehaviour
 		EventHandler.Remove<int>(SELECT_CARD, SelectCard);
 
         UIManager.m_Instance.RemoveUI(UITypeName.SkillUI);
+
 	}
 
 
@@ -95,12 +98,6 @@ public class SkillUI : MonoBehaviour
 
 
 	#region Button Event
-	void ClickCheckBattle()
-	{
-		DebugManager.Log("Click CheckBattle.");
-
-       
-	}
 
 	void ClickBattle()
 	{
@@ -111,6 +108,17 @@ public class SkillUI : MonoBehaviour
 		//EventHandler.Invoke(BattleManager.BATTLE_RUN);
 		//EventHandler.Invoke<int>(BattleScene.BATTLE_SLECET, m_CardIndex);
 	}
+
+    void ClickExit()
+    {
+        DebugManager.Log("Click Exit.");
+
+        Destroy(gameObject);
+        //UIManager.m_Instance.Load(UITypeName.Menu);
+        // SelectCard End Done.
+        //EventHandler.Invoke(BattleManager.BATTLE_RUN);
+        //EventHandler.Invoke<int>(BattleScene.BATTLE_SLECET, m_CardIndex);
+    }
 	#endregion
 
 	#region Select Event
